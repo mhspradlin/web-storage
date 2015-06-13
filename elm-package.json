@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "summary": "Library for using local browser storage",
+    "repository": "https://github.com/mhspradlin/web-storage.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "WebStorage"
+    ],
+    "native-modules": true,
+    "dependencies": {
+        "elm-lang/core": "2.0.0 <= v < 3.0.0",
+    },
+    "elm-version": "0.15.0 <= v < 0.16.0"
+}
